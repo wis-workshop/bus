@@ -1,0 +1,15 @@
+{
+2
+"name": "Bus Loader",
+3
+"short_name": "Bus Loader",
+4
+"display": "standalone",
+5
+"start_url": "./",
+6
+"background_color": "#ffffff",
+7
+"theme_color": "#0078d4"
+8
+}
